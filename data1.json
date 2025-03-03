@@ -1,0 +1,105 @@
+{
+  "about": {
+    "description": "I am a highly motivated Senior Robotics and Automation Engineering student based in Berlin, Germany, with a strong foundation in robotics, algorithm development, and practical implementation. Currently pursuing a Bachelor's degree at the German International University (GIU) Berlin, my focus is on advancing my expertise through my recently completed thesis, 'Road Surface Deterioration Detection Using AI, ITS, and IoT,' which earned an A+. I am currently seeking internship opportunities to contribute to innovative research, gain hands-on experience in simulation, coding, building, and design, and collaborate within dynamic, challenging environments.",
+    "skills": [
+      "PyTorch", "Darknet", "TensorFlow", "MATLAB", "Simulink", "Simscape", "ROS",
+      "C++", "Python", "JavaScript", "C#", "SolidWorks", "Ansys", "Arduino IDE",
+      "LTSpice", "PLC Fiddle", "Photo & Video Editing", "Event Management"
+    ],
+    "languages": [
+      "English - Fluent", "Hindi - Native", "German - Beginner", "Arabic - Intermediate"
+    ],
+    "websites": {
+      "LinkedIn": "https://www.linkedin.com/in/aditya-bhagchandani/",
+      "GitHub": "https://github.com/Yuvadi"
+    }
+  },
+  "highlights": [
+    {
+      "title": "Completed BSc Thesis with A+",
+      "date": "February 2025",
+      "description": "Successfully completed my thesis 'Road Surface Deterioration Detection Using AI, ITS, and IoT' with an A+ grade, supervised by Dr. Amr Talaat. Developed a lightweight ML model for real-time road monitoring.",
+      "links": ["GitHub: Road Detection|https://github.com/Yuvadi/Road-Damage-Detection"],
+      "images": ["assets/highlight1.jpg"],
+      "videos": ["assets/highlight2.mp4"]
+    },
+    {
+      "title": "Ranked 2nd - Metal Monster 2023",
+      "date": "October 2023",
+      "description": "Secured 2nd place in the Metal Monster 2023 robotics competition, demonstrating advanced robot design and control skills.",
+      "links": [],
+      "images": [],
+      "videos": []
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelors in Robotics and Automation Engineering | GIU Berlin",
+      "date": "October 2023 - Ongoing",
+      "gpa": "1.54 (A-)",
+      "details": [
+        "Member of the CPS Team",
+        "Relevant Coursework: Industrial & Parallel Robotics, Robot Kinematics, Control Systems, Introduction to Networks, PLC, Project Management",
+        "Relevant Projects: Maze-Solving Robot with Overhead Camera, JIRA for Project Management, 3RRR Parallel Robot Simulation, Simple Gearbox in SolidWorks, 3 DOF Robotic Arm Control",
+        "Thesis: Road Surface Deterioration Detection Using AI, ITS, and IoT (A+), supervised by Dr. Amr Talaat"
+      ]
+    },
+    {
+      "title": "Bachelors in Robotics and Automation Engineering | GIU Egypt",
+      "date": "September 2021 - Ongoing",
+      "gpa": "2.06 (B)",
+      "details": [
+        "Relevant Coursework: Computer Science, Mechanics, Mathematics, Electronics, Software Engineering, Microcontrollers",
+        "Relevant Projects: Material Testing Simulation (Ansys), Snake and Ladders Game (C++), Obstacle Avoidance RC Car (Arduino), Multi-user University Portal (JavaScript, NodeJS, PostgreSQL), 3-Story Miniature Elevator (Atmega32), Hoverboard Simulation (MATLAB)"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Event Coordinator and Receptionist | Egypt Booth - ITB 2024 Berlin",
+      "date": "March 2024",
+      "location": "Berlin, Germany",
+      "details": [
+        "Coordinated schedules for the Minister, ensuring prompt meetings and official appointments",
+        "Acted as a receptionist, addressing visitor inquiries about Egypt’s tourism",
+        "Supported booth operations with IT support, inventory management, and logistics"
+      ]
+    },
+    {
+      "title": "Mechanical Team Leader | Techademics Club",
+      "date": "January 2022 - October 2023",
+      "location": "Cairo, Egypt",
+      "details": [
+        "Led a team in designing, building, and testing robots for competitions like Metal Monster and Minesweeper",
+        "Managed project budgets and timelines",
+        "Developed leadership, communication, and teamwork skills"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Road Surface Deterioration Detection",
+      "date": "February 2025",
+      "description": "Developed a lightweight machine learning model using AI, ITS, and IoT to detect and classify road surface deterioration in real-time on embedded systems. Earned an A+ for my BSc thesis under Dr. Amr Talaat.",
+      "links": ["GitHub: Road Detection|https://github.com/Yuvadi/Road-Damage-Detection"]
+    },
+    {
+      "title": "Maze-Solving Robot",
+      "date": "June 2023",
+      "description": "Designed and built an autonomous robot using an overhead camera and computer vision algorithms to navigate and solve mazes. Implemented pathfinding in C++ for real-time performance.",
+      "links": ["GitHub: Maze Robot|https://github.com/Yuvadi/maze-robot"]
+    },
+    {
+      "title": "WhatsApp Sending Automation",
+      "date": "December 2022",
+      "description": "Built a custom Python script to automate WhatsApp message sending for employee notifications, improving communication efficiency.",
+      "links": []
+    },
+    {
+      "title": "3D Printers and Laser Engraver",
+      "date": "November 2022",
+      "description": "Constructed custom 3D printers and a laser engraver, optimizing mechanical design in SolidWorks and programming firmware in Arduino for precise control.",
+      "links": ["GitHub: 3D Printer|https://github.com/Yuvadi/3d-printer"]
+    }
+  ]
+}
