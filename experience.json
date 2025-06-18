@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Research Intern",
+    "institution": "RPTU Rheinland-Pfälzische Technische Universität",
+    "duration": "March 2025 - Present",
+    "details": [
+      "Optimized ML models for ZEBRA project, enhancing GPR dataset analysis",
+      "Collaborated on AI-driven automation solutions"
+    ], "link":"https://mv.rptu.de/fgs/mec/projects-1/zebra"
+  },
+  {
+    "title": "Mechanical Team Leader",
+    "institution": "Techademics Club, Cairo, Egypt",
+    "duration": "January 2022 - October 2023",
+    "details": [
+      "Led robot design for Metal Monster and Minesweeper competitions"
+    ], "link":"https://www.instagram.com/techademics_awg/"
+  },
+  {
+    "title": "Junior Teaching Assistant for Technical Drawing",
+    "institution": "German International University (GIU) - Egypt Campus",
+    "duration": "February 2023 - June 2023",
+    "details": [
+      "Supported students, boosting class performance by 10%"
+    ], "link":"https://giu-uni.de"
+  }
+]

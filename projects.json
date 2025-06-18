@@ -1,0 +1,33 @@
+[
+   {
+    "name": "Maze-Solving Robot",
+    "description": "Autonomous robot using ROS and overhead camera",
+    "image": "maze.png",
+    "link": "https://github.com/Alaa-Hassanein/vision-based-maze-navigation-for-turtleBot3"
+  },
+  {
+    "name": "Road Surface Deterioration Detection",
+    "description": "BS.c. Thesis with A+ defened on 3rd Feb 2025 under the supervision of Dr. Amr Talaat",
+    "image": "thesis.png",
+    "link": "https://github.com/Yuvadi/Road-Damage-Detection"
+  },
+  {
+    "name": "WhatsApp Automation",
+    "description": "Python-based tool for automated employee notifications, reducing manual effort by 30%",
+    "image": "https://via.placeholder.com/300x200?text=WhatsApp+Automation",
+    "link": "https://github.com/Yuvadi/whatsapp-automation"
+  },
+  {
+    "name": "University Portal",
+    "description": "Multi-user portal with JavaScript, Node.js, and PostgreSQL",
+    "image": "https://via.placeholder.com/300x200?text=University+Portal",
+    "link": "https://github.com/Yuvadi/university-portal"
+  },
+  {
+    "name": "Parrot Mini-drone",
+    "description": "MATLAB Parrot Mini-drone Competition",
+    "image": "parrot.png",
+    "link": "https://github.com/Yuvadi/Parrot-Minidrone-Matlab"
+  }
+  
+]

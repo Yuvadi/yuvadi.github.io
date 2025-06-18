@@ -1,0 +1,30 @@
+{
+  "summary": "Robotics and Automation Engineering graduate (expected September 2025) with expertise in AI-driven automation, machine learning, and autonomous systems. Skilled in Python, machine-learning, CAD, and IoT integration, with hands-on experience in system design, simulation, and digital transformation. Seeking full-time roles to innovate solutions in robotics within collaborative, cutting-edge environments.",
+  "education": [
+    {
+      "title": "B.Sc. in Robotics and Automation Engineering (Exchange Program)",
+      "institution": "German International University (GIU) - Berlin Campus",
+      "duration": "October 2023 - February 2025",
+      "details": [
+        "Member of the Cyber-Physical Systems (CPS) Team, driving advanced automation projects",
+        "Thesis: AI-driven model for road surface deterioration detection (A+)",
+        "GPA: 1.5 (German Scale, A- equivalent)"
+      ]
+    },
+    {
+      "title": "B.Sc. in Robotics and Automation Engineering",
+      "institution": "German International University (GIU) - Egypt Campus",
+      "duration": "September 2021 - Expected September 2025",
+      "details": [
+        "Key Projects: Material testing simulation (Ansys), university portal (JavaScript, Node.js, PostgreSQL)",
+        "GPA: 2.06 (German Scale, B equivalent)"
+      ]
+    }
+  ],
+  "skills": [
+    { "category": "Programming", "items": "Python, C++, JavaScript, C#" },
+    { "category": "Machine Learning", "items": "PyTorch, Darknet, TensorFlow" },
+    { "category": "Robotics & Automation", "items": "ROS, Arduino IDE, PLC Fiddle, LTSpice" },
+    { "category": "Simulation & Design", "items": "MATLAB, Simulink, SolidWorks, Ansys, CAD" }
+  ]
+}
