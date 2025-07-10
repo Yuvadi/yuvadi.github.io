@@ -210,15 +210,7 @@
       </section>
     );
 
-    const Resume = () => (
-      <section id="resume" className="section-gradient" data-aos="fade-up">
-        <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold text-indigo-300 mb-6">Resume</h2>
-          <p className="text-lg text-gray-300 mb-4">Download my resume to learn more about my qualifications and experience.</p>
-          <a href="resume.pdf" download className="btn-neon text-white px-6 py-3 rounded-md inline-block">Download Resume <i className="fas fa-download"></i></a>
-        </div>
-      </section>
-    );
+   
 
     const Contact = () => {
       const [formData, setFormData] = useState({ name: '', email: '', message: '' });
@@ -262,10 +254,6 @@
               <button type="submit" className="btn-neon text-white px-6 py-3 rounded-md w-full">Send Message</button>
               {status && <p className="text-center text-indigo-200">{status}</p>}
             </form>
-            <div className="text-center mt-6 text-gray-300">
-              <p><a href="mailto:aditya.yuvadi@gmail.com"><i className="fas fa-envelope"></i> aditya.yuvadi@gmail.com</a></p>
-              <p><a href="https://wa.me/+201100013699"><i className="fab fa-whatsapp"></i> WhatsApp</a></p>
-            </div>
           </div>
         </section>
       );
